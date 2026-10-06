@@ -12,7 +12,7 @@ En esta práctica debemos programar una aspiradora para que recorra el mayor por
 3- Girar
 
 ## OBJETIVO DEL CÓDIGO
-Al inicio del programa se deberá comprobar que todos los láseres del robot están activos, si así es, comenzará su ejecución. Cuando el robot llega a una distancia límite de 0,2, procede a cambiar de estado.
+Al inicio del programa se deberá comprobar que todos los láseres del robot están activos, si así es, comenzará su ejecución. Cuando el robot llega a una distancia límite contral un obstáculo de 0,2, procede a cambiar de estado.
 
 ## PROBLEMAS ENCONTRADOS
-Al principio de programar la aspiradora
+Cuando comencé a programar mezcle los movimientos y no se detectaban como estados independientes, es decir, al principio el robot iba recto, pero luego giraba a la vez que retrocedía y así sucesivamente, por lo que no entendía como separarlos correctamente.
