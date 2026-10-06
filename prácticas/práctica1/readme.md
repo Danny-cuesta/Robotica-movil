@@ -16,3 +16,5 @@ Al inicio del programa se deberá comprobar que todos los láseres del robot est
 
 ## PROBLEMAS ENCONTRADOS
 Cuando comencé a programar mezcle los movimientos y no se detectaban como estados independientes, es decir, al principio el robot iba recto, pero luego giraba a la vez que retrocedía y así sucesivamente, por lo que no entendía como separarlos correctamente.
+
+## VÍDEO
