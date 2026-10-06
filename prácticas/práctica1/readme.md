@@ -1,4 +1,4 @@
-# PRÁCTICA 2: Navegación pseudoaleatoria con FSM en una aspiradora de gama baja
+# PRÁCTICA 1: Navegación pseudoaleatoria con FSM en una aspiradora de gama baja
 
 ## OBJETIVO DE LA PRÁCTICA
 
