@@ -4,7 +4,9 @@ En esta práctica debemos programar una aspiradora para que recorra el mayor por
 
 ## MÁQUINA DE ESTADOS
 1- Recto 
+
 2- Retroceder
+
 3- Girar
 
 ## PROBLEMAS ENCONTRADOS
