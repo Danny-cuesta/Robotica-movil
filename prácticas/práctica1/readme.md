@@ -6,8 +6,7 @@ En esta práctica debemos programar una aspiradora para que recorra el mayor por
 
 ## MÁQUINA DE ESTADOS
 
-<img width="542" height="362" alt="practica1_maquinaEstados" src="https://github.com/user-attachments/assets/1f705ef5-99c2-41d7-8027-c44acd90c457" /> 
-
+<img width="542" height="362" alt="practica1_maquinaEstados" src="https://github.com/user-attachments/assets/6c467213-7661-4d88-b3b3-5646cde84df8" />
 
 
 ## OBJETIVO DEL CÓDIGO
