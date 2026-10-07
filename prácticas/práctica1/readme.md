@@ -14,6 +14,6 @@ Al inicio del programa se deberá comprobar que todos los láseres del robot est
 
 ## PROBLEMAS ENCONTRADOS
 Cuando comencé a programar mezclé los movimientos y no se detectaban como estados independientes, es decir, al principio el robot iba recto, pero luego giraba a la vez que retrocedía y así sucesivamente, por lo que no entendía como separarlos correctamente.
-Corregí el error detectando cada estado por separado tratándolo como un movimiento independiente, como hemos dicho previamente cada movimiento se ejecutará durante 2 segundos y posteriormente se activará el siguiente estado, pero al finalizar el programa, al principio de la ejecución tarda demasiado en detectar el obstáculo, pero no se cómo arreglarlo, exceptuando eso funciona correctamente.
+Corregí el error detectando cada estado por separado tratándolo como un movimiento independiente, como hemos dicho previamente cada movimiento se ejecutará durante 2 segundos y posteriormente se activará el siguiente estado, pero al principio de la ejecución tarda demasiado en detectar el obstáculo, pero no se cómo arreglarlo, exceptuando eso funciona correctamente.
 
 ## VÍDEO
