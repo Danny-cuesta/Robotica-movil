@@ -18,3 +18,5 @@ Corregí el error detectando cada estado por separado tratándolo como un movimi
 
 ## VÍDEO
 [screencast-from-2026-10-08-12-25-58_x5ITNrzt.webm](https://github.com/user-attachments/assets/e21fe8a5-8437-4efe-b71e-464589ff70fe)
+
+Como podemos comprobar la aspiradora funciona correctamente y acaba recorriendo mas del 60% de la casa, pero al final del video observamos que se queda pillada, exceptuando eso, recorre bastante superficie.
