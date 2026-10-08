@@ -9,7 +9,7 @@ En esta práctica debemos programar una aspiradora para que recorra el mayor por
 <img width="542" height="362" alt="practica1_maquinaEstados" src="https://github.com/user-attachments/assets/6c467213-7661-4d88-b3b3-5646cde84df8" />
 
 
-## OBJETIVO DEL CÓDIGO
+## DETALLES DEL CÓDIGO
 Al inicio del programa se deberá comprobar que todos los láseres del robot están activos, si así es, comenzará su ejecución. Cuando el robot llega a una distancia límite de 0.45 contra un obstáculo, procede a cambiar de estado, se mantendrá en ese estado durante 1-2 segundos y luego automáticamente cambiará al siguiente. Va a 0.5 de velocidad.
 
 ## PROBLEMAS ENCONTRADOS
