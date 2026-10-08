@@ -10,7 +10,7 @@ En esta práctica debemos programar una aspiradora para que recorra el mayor por
 
 
 ## OBJETIVO DEL CÓDIGO
-Al inicio del programa se deberá comprobar que todos los láseres del robot están activos, si así es, comenzará su ejecución. Cuando el robot llega a una distancia límite de 0.45 contra un obstáculo, procede a cambiar de estado, se mantendrá en ese estado durante 1-2 segundos y luego automáticamente cambiará al siguiente.
+Al inicio del programa se deberá comprobar que todos los láseres del robot están activos, si así es, comenzará su ejecución. Cuando el robot llega a una distancia límite de 0.45 contra un obstáculo, procede a cambiar de estado, se mantendrá en ese estado durante 1-2 segundos y luego automáticamente cambiará al siguiente. Va a 0.5 de velocidad.
 
 ## PROBLEMAS ENCONTRADOS
 Cuando comencé a programar mezclé los movimientos y no se detectaban como estados independientes, es decir, al principio el robot iba recto, pero luego giraba a la vez que retrocedía y así sucesivamente, por lo que no entendía como separarlos correctamente.
