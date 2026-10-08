@@ -1,4 +1,3 @@
-[screencast-from-2026-10-08-12-25-58_x5ITNrzt.webm](https://github.com/user-attachments/assets/6765e3a3-1f08-4e2a-83ec-2f682a9ecf77)
 # PRÁCTICA 1: Navegación pseudoaleatoria con FSM en una aspiradora de gama baja
 
 ## OBJETIVO DE LA PRÁCTICA
