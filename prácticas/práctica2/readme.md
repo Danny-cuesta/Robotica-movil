@@ -1,1 +1,11 @@
 # PRÁCTICA 2: Control Visual con PID de un Fórmula 1
+
+## OBJETIVO DE LA PRÁCTICA
+
+## MÁQUINA DE ESTADOS
+
+## DETALLES DEL CÓDIGO
+
+## PROBLEMAS ENCONTRADOS
+
+## VÍDEO
