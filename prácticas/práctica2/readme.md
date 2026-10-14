@@ -6,7 +6,7 @@ Esta práctica se basa en programar un control reactivo PID, es decir, un sistem
 
 ## DETALLES DEL CÓDIGO
 
-El coche detectará la línea roja mediante píxeles utilizando las librerías cv2 y numpy para el procesamiento y el manejo de la imagen y de arrays, por tanto si el coche no detecta la linea roja deberá girar en la dirección correcta para seguir en la carretera.
+El coche detectará la línea roja mediante píxeles, detectando el color rojo en el rango correcto, utilizando las librerías cv2 y numpy para el procesamiento y el manejo de la imagen y de arrays, por tanto si el coche no detecta la linea roja deberá girar en la dirección correcta para seguir en la carretera.
 
 ## PROBLEMAS ENCONTRADOS
 
