@@ -17,4 +17,4 @@ Durante toda la práctica, no me ha cargado la imagen de la cámara del vehícul
 <img width="728" height="323" alt="Screenshot from 2026-10-14 12-30-59" src="https://github.com/user-attachments/assets/eb848f7c-0d51-4352-a1a9-bc062d21bb62" />
 
 
-## VÍDEO
+## VÍDEOS
