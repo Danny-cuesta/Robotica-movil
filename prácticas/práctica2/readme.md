@@ -30,6 +30,6 @@ Durante toda la práctica, no me ha cargado la imagen de la cámara del vehícul
 
 
 
-### Si el coche está fuera de la linea roja:
+### Si el coche está fuera de la línea roja al inicio:
 
 
