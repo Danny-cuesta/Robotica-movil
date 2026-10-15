@@ -30,6 +30,8 @@ https://github.com/user-attachments/assets/1ddd05ed-cb76-40a2-9f9c-c223d5398168
 
 https://github.com/user-attachments/assets/b8b209ac-0c22-45ef-9515-b89f24ed3f2d
 
+En un punto del final en este circuito, el coche se queda pillado, por lo que hace falta trasladarlo manualmente.
+
 ### Si el coche está fuera de la línea roja al inicio:
 
 [Screencast from 2026-10-15 12-11-09.webm](https://github.com/user-attachments/assets/6df9e2fe-d052-48c2-8b3f-d15e3be2eab5)
