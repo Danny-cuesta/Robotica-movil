@@ -1,3 +1,4 @@
+
 # PRÁCTICA 2: Control Visual con PID de un Fórmula 1
 
 ## OBJETIVO DE LA PRÁCTICA
@@ -19,6 +20,8 @@ Durante toda la práctica, no me ha cargado la imagen de la cámara del vehícul
 
 ## VÍDEOS
 ### Simple circuit:
+
+
 
 
 
