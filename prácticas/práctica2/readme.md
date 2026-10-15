@@ -32,6 +32,6 @@ Durante toda la práctica, no me ha cargado la imagen de la cámara del vehícul
 
 ### Si el coche está fuera de la línea roja al inicio:
 
-[Screencast from 2026-10-15 12-11-09.webm](https://github.com/user-attachments/assets/8f623c55-31ba-47d2-bb6c-227ecc0764c1)
-...
+[Screencast from 2026-10-15 12-11-09.webm](https://github.com/user-attachments/assets/6df9e2fe-d052-48c2-8b3f-d15e3be2eab5)
+
 Observamos que se coloca rápidamente en el centro siguiendo la línea.
