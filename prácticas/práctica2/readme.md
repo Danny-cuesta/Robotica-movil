@@ -21,7 +21,7 @@ Durante toda la práctica, no me ha cargado la imagen de la cámara del vehícul
 ## VÍDEOS
 ### Simple circuit:
 
-
+https://github.com/user-attachments/assets/16ffae3e-37d1-41ef-8298-fc87a314203f
 
 ### Montreal circuit:
 
