@@ -8,7 +8,7 @@ Esta práctica se basa en programar un control reactivo PID, es decir, un sistem
 
 El coche identificará la línea roja mediante píxeles, detectando el color rojo en el rango correcto, utilizando las librerías cv2 y numpy para el procesamiento y el manejo de la imagen y de arrays.
 
-Para ello hemos tenido que imprimir las dimensiones de la imagen para ver cual era el ancho de esta, después lo dividiremos entre 2 para obtener su mitad y en función de ese valor mantendremos centrado el coche. Entre esto último y detectando los píxeles del color rojo, calcularemos también el error, si el coche se desvía un poco de la linea roja, girará a la derecha o a la izquierda en función del valor de dicho error y la ganancia para mantenerse en el centro de la carretera.
+Para ello hemos tenido que imprimir las dimensiones de la imagen para ver cual era el ancho de esta, después lo dividiremos entre 2 para obtener su mitad y en función de ese valor mantendremos el coche en el medio. Entre esto último y detectando los píxeles del color rojo, calcularemos también el error, si el coche se desvía un poco de la linea roja, girará a la derecha o a la izquierda en función del valor de dicho error y la ganancia para mantenerse en el centro de la carretera.
 
 ## PROBLEMAS ENCONTRADOS
 
