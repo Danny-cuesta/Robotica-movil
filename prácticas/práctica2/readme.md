@@ -23,8 +23,6 @@ Durante toda la práctica, no me ha cargado la imagen de la cámara del vehícul
 
 
 
-
-
 ### Montreal circuit:
 
 
