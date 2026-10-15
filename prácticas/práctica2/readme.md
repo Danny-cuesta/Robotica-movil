@@ -1,4 +1,3 @@
-[Screencast from 2026-10-15 12-11-09.webm](https://github.com/user-attachments/assets/e52348cf-b808-498f-9ce6-80b0484cf517)
 # PRÁCTICA 2: Control Visual con PID de un Fórmula 1
 
 ## OBJETIVO DE LA PRÁCTICA
