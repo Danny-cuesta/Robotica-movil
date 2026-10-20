@@ -8,7 +8,7 @@ Para ello debemos calcular por separado ambas fuerzas, combinarlas (para que por
 
 ## DETALLES DEL CÓDIGO
 
-Debemos calcular cada fuerza por separado, para la **FUERZA ATRACTIVA** necesitamos previamente hallar la posición del coche (xr, yr) y la posición de la meta (xg, yg), de esta forma podremos calcular el vector hacia la meta, también tendremos en cuenta su ionstensidad que será un número CONSTANTE porque no nos interesa que vaya variando, el coche va con la misma intensidad hacia la meta en todo momento. Por tanto, el cálculo es: **F.atractiva = a * ((xg, yg) - (xr, yr))**.
+Debemos calcular por partes cada fuerza, para la **FUERZA ATRACTIVA** necesitamos previamente hallar la posición del coche (xr, yr) y la posición de la meta (xg, yg), de esta forma podremos calcular el vector hacia la meta, también tendremos en cuenta su ionstensidad que será un número CONSTANTE porque no nos interesa que vaya variando, el coche va con la misma intensidad hacia la meta en todo momento. Por tanto, el cálculo es: **F.atractiva = a * ((xg, yg) - (xr, yr))**.
 
 Para la **FUERZA REPULSIVA** necesitamos la DIRECCIÓN DE LA FUERZA que podemos calcular con la posición del coche (xr, yr) y la del obstáculo (xo, yo), d.fuerza.repulsiva = (xr, yr) - (xo, yo), es negativa (por eso va al revés que la otra). Por otro lado necesitamos la INTENSIDAD DE LA FUERZA que será un número NO CONSTANTE, ya que necesitamos que varíe en función de si el coche se aleja o se acerca del objeto. Su cálculo será **F.repulsiva =  b * ((xr, yr) - (xo, yo))**.
 
