@@ -13,7 +13,7 @@ Debemos calcular por partes cada fuerza, para la **FUERZA ATRACTIVA** necesitamo
 Para la **FUERZA REPULSIVA** necesitamos la DIRECCIÓN DE LA FUERZA que podemos calcular con la posición del coche (xr, yr) y la del obstáculo (xo, yo), d.fuerza.repulsiva = (xr, yr) - (xo, yo), es negativa (por eso va al revés que la otra). Por otro lado necesitamos la INTENSIDAD DE LA FUERZA que será un número NO CONSTANTE, ya que queremos que varíe en función de si el coche se aleja o se acerca del objeto. Su cálculo será **F.repulsiva =  b * ((xr, yr) - (xo, yo))**.
 
 Por último, hacemos el cálculo de la **FUERZA RESULTANTE: f.intermedia = α*F.atractiva + β*F.repulsiva**.  
-(α y β son coeficientes que indican el peso y la prioridad de cada fuerza).
+(α y β son coeficientes que indican el peso y la prioridad de cada fuerza en cada momento).
 
 ## PROBLEMAS ENCONTRADOS
 
