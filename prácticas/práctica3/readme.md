@@ -17,6 +17,6 @@ Por último, hacemos el cálculo de la **FUERZA RESULTANTE: f.intermedia = α*F.
 
 ## PROBLEMAS ENCONTRADOS
 
-Al principio al combinar ambas fuerzas, el coche iba como tambaleándose, no 100% recto.
+Al principio al combinar ambas fuerzas, aunque consiguiera esquivar los obstáculos, el coche iba tambaleándose. Esa oscilación provocaba que más a delante en el circuito se chocase.
 
 ## VIDEOS
