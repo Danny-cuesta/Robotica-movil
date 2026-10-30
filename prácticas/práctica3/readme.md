@@ -25,4 +25,4 @@ Al final, lo resolví NORMALIZANDO los vectores de la fuerza atractiva y repulsi
 https://github.com/user-attachments/assets/555d5bd2-74e6-4bdb-a527-ecce7cf63f44
 
 Observamos que recorre todo el circuito esquivando los obstáculos oscilando un poco en algunas ocasiones.  
-El coche va a una velocidad de 4.5 Km, a más ya colisiona.
+El coche va a una velocidad de 4.3 Km, a más ya colisiona.
