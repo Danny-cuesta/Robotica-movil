@@ -17,6 +17,7 @@ Por último, hacemos el cálculo de la **FUERZA RESULTANTE: f.intermedia = α*F.
 
 ## PROBLEMAS ENCONTRADOS
 
-Al principio al combinar ambas fuerzas, el coche conseguía seguir la meta y esquivar los obstáculos, pero iba tambaleándose. Esa oscilación provocaba que más a delante se chocase. Conseguí frenar la inestabilidad bajando las ganancias y ajustando los parámetros α y β, pero llega un punto en el que no resiste y se choca.
+Al principio al combinar ambas fuerzas, el coche conseguía seguir la meta, pero iba tambaleándose. Esa oscilación provocaba que más a delante se chocase y no consiguiera esquivar los obstáculos. Conseguí frenar la inestabilidad bajando las ganancias y ajustando los parámetros α y β, pero se seguía chocando.  
+Al final, lo resolví NORMALIZANDO los vectores de la fuerza atractiva y repulsiva, gracias a eso el coche ya consigue esquivar los obstáculos, solo que en alguna parte se tambalea un poco.
 
 ## VIDEOS
