@@ -21,3 +21,7 @@ Al principio al combinar ambas fuerzas, el coche conseguía seguir la meta, pero
 Al final, lo resolví NORMALIZANDO los vectores de la fuerza atractiva y repulsiva, gracias a eso el coche ya consigue esquivar los obstáculos, solo que en alguna parte se tambalea un poco.
 
 ## VIDEOS
+
+https://github.com/user-attachments/assets/e4bd59da-df24-4b9b-8698-32c3b9c38a68
+
+
