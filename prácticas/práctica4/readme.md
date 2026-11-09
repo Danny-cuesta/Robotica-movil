@@ -12,6 +12,7 @@ El objetivo de esta práctica es implementar un algoritmo de Planificación de R
 ### 2- Campo de costes (propagación de onda)
 
 ### 3- Descenso por gradiente
+El concepto es: moverse siempre en la dirección en la que el coste baja más rápido.
 
 
 ## DETALLES DEL CÓDIGO
