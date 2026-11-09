@@ -9,7 +9,7 @@ El objetivo de esta práctica es implementar un algoritmo de Planificación de R
 
 ### 1- Mapa discretizado
 
-### 2- Campo de costes
+### 2- Campo de costes (propagación de onda)
 
 ### 3- Descenso por gradiente
 
