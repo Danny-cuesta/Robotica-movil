@@ -11,7 +11,7 @@ El objetivo de esta práctica es implementar un algoritmo de Planificación de R
 
 ### 2- Campo de costes
 
-### 1- Descenso por gradiente
+### 3- Descenso por gradiente
 
 
 ## DETALLES DEL CÓDIGO
