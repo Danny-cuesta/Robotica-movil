@@ -21,6 +21,11 @@ El **coste C(x, y)** es un número en cada celda. Cuanto mayor es, más lejos se
 Por ello, tenemos que tener en cuenta que si te nos movemos en la dirección del gradiente, el coste aumenta y nos alejamos del objetivo. Por eso el robot va en la dirección contraria, **−∇C**.
 
 
+El vector gradiente tiene dos direcciones:  
+**gx: cuánto cambia el coste al moverte en x**
+**gy: cuánto cambia el coste al moverte en y**
+
+
 ## DETALLES DEL CÓDIGO
 
 ## PROBLEMAS ENCONTRADOS
