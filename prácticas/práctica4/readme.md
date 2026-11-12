@@ -34,7 +34,7 @@ Lo primero que tenemos que hacer es cargar el mapa con WebGUI.getMap, esta funci
 
 Luego crearemos otra tabla donde están defidos los muros para luego inflarlos.
 
-Depués debemos inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes).
+Depués debemos inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes). 
 
 ## PROBLEMAS ENCONTRADOS
 
