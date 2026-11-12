@@ -22,8 +22,8 @@ Por ello, tenemos que tener en cuenta que si te nos movemos en la dirección del
 
 
 El vector gradiente tiene dos direcciones:  
-**gx: cuánto cambia el coste al moverte en x**
-**gy: cuánto cambia el coste al moverte en y**
+--> **gx: cuánto cambia el coste al moverte en x.**  
+--> **gy: cuánto cambia el coste al moverte en y** 
 
 
 ## DETALLES DEL CÓDIGO
