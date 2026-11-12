@@ -28,7 +28,17 @@ El vector gradiente tiene dos direcciones:
 
 ## DETALLES DEL CÓDIGO
 
-Lo primero que tenemos que hacer es cargar el mapa 
+Lo primero que tenemos que hacer es cargar el mapa con WebGUI.getMap, esta función lee una imagen y la devuelve como una tabla de números, cada número representa el grado de brillo, que indica si hay obstáculos:  
+--> 0: negro (representa muros)  
+--> 255: blanco (representa celdas libres)
+
+Por ejemplo:  
+array (original)
+255 255   0 255     
+255 255   0 255   
+255 255 255 255
+
+Posteriormente debemos también inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes).
 
 ## PROBLEMAS ENCONTRADOS
 
