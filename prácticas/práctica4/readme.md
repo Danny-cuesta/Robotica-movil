@@ -12,7 +12,7 @@ El objetivo de esta práctica es implementar un algoritmo de Planificación de R
 El mapa se convierte en una rejilla de celdas libres y ocupadas. Conviene inflar los obstáculos, es decir, hacerlo más grande de lo que es en realidad, añadiéndole un “margen” a su alrededor en el mapa, para poder tratar al robot como si fuera un punto, para que la ruta no pase pegada a las paredes.
 
 ### 2- Campo de costes (propagación de onda)
-Es un mapa donde cada celda guarda un número: cuántos pasos hay desde esa celda hasta el objetivo, rodeando los obstáculos.
+Es un mapa donde cada celda guarda un número: cuántos pasos hay desde esa celda hasta el objetivo, rodeando los obstáculos. Indica el coste que hay hasta la meta desde cada celda.
 
 ### 3- Descenso por gradiente
 El concepto es: MOVERSE SIEMPRE EN LA DIRECCIÓN EN LA QUE EL COSTE BAJA MÁS RÁPIDO.  
