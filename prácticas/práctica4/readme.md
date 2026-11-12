@@ -33,8 +33,8 @@ Lo primero que tenemos que hacer es cargar el mapa con WebGUI.getMap, esta funci
 --> 255: blanco (representa celdas libres)
 
 Por ejemplo:  
-array (original)
-255 255   0 255     
+array (original)  
+255 255   0 255  
 255 255   0 255   
 255 255 255 255
 
