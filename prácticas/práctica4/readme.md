@@ -28,6 +28,8 @@ El vector gradiente tiene dos direcciones:
 
 ## DETALLES DEL CÓDIGO
 
+Lo primero que tenemos que hacer es cargar el mapa 
+
 ## PROBLEMAS ENCONTRADOS
 
 ## VÍDEOS
