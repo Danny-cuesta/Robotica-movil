@@ -32,13 +32,15 @@ Lo primero que tenemos que hacer es cargar el mapa con WebGUI.getMap, esta funci
 --> 0: negro (representa muros)  
 --> 255: blanco (representa celdas libres)
 
-Por ejemplo:  
-array (original)  
-255  255   0    255  
-255  255   0    255   
-255  255   255  255
+Luego crearemos otra tabla donde están defidos los muros para luego inflarlos.
 
-Posteriormente debemos también inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes).
+Obteniendo este boceto de mapas (ejemplo):  
+     array (original)        ocupado (nuevo)
+     255 255   0 255         0   0 255   0
+     255 255   0 255   →     0   0 255   0
+     255 255 255 255         0   0   0   0
+
+Ahora debemos inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes).
 
 ## PROBLEMAS ENCONTRADOS
 
