@@ -28,6 +28,7 @@ El vector gradiente tiene dos direcciones:
 
 ## DETALLES DEL CÓDIGO
 
+**-FUERA DEL BUCLE PRINCIPAL:**  
 Lo primero que tenemos que hacer es cargar el mapa con WebGUI.getMap, esta función lee una imagen y la devuelve como una tabla de números, cada número representa el grado de brillo, que indica si hay obstáculos:  
 --> 0: negro (representa muros)  
 --> 255: blanco (representa celdas libres)
@@ -35,6 +36,15 @@ Lo primero que tenemos que hacer es cargar el mapa con WebGUI.getMap, esta funci
 Luego crearemos otra tabla donde están defidos los muros para luego inflarlos.
 
 Depués debemos inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes). 
+
+**-DENTRO DEL BUCLE PRINCIPAL:**  
+Vamos a definir el objetivo y realizar la conversión de coordenadas correspondientes, del mundo a rejilla y de rejilla al mundo, se realiza cada conversión cuando queremos "salir y entrar" del algoritmo:  
+**Coordenadas del mundo (continuas) :** Posiciones en metros, como las que usa el simulador.  
+**Coordenadas de rejilla (discretas):** Posiciones en celdas del array, es lo que entiende nuestro campo de costes, ya que la propagación de onda y el inflado necesitan un mapa discretizado.
+
+
+**-En una FUNCIÓN A PARTE que llamaremos build_path:**  
+Decribiremos la ruta que debe seguir el coche por el mapa donde construiremos el **vector gradiente**. Esta función recibirá el coste de cada celda para llegar al objetivo y el inicio.
 
 ## PROBLEMAS ENCONTRADOS
 
