@@ -37,10 +37,13 @@ Luego crearemos otra tabla donde están defidos los muros para luego inflarlos.
 
 Depués debemos inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes). 
 
+
+
 **-DENTRO DEL BUCLE PRINCIPAL:**  
 Vamos a definir el objetivo y realizar la conversión de coordenadas correspondientes, del mundo a rejilla y de rejilla al mundo, se realiza cada conversión cuando queremos "salir y entrar" del algoritmo:  
 **Coordenadas del mundo (continuas) :** Posiciones en metros, como las que usa el simulador.  
 **Coordenadas de rejilla (discretas):** Posiciones en celdas del array, es lo que entiende nuestro campo de costes, ya que la propagación de onda y el inflado necesitan un mapa discretizado.
+
 
 
 **-En una FUNCIÓN A PARTE que llamaremos build_path:**  
