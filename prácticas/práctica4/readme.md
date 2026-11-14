@@ -39,7 +39,7 @@ Depués debemos inflar los muros para que se descarten las calles más estrechas
 
 
 **-DENTRO DEL BUCLE PRINCIPAL:**  
-Vamos a definir el objetivo y realizar la conversión de coordenadas correspondientes, del mundo a rejilla y de rejilla al mundo, se realiza cada conversión cuando queremos "salir y entrar" del algoritmo:  
+Vamos a definir el objetivo y realizar la conversión de coordenadas correspondientes, del mundo a rejilla y de rejilla al mundo, se realiza cada conversión cuando queremos "salir o entrar" del algoritmo:  
 **--> Coordenadas del mundo (continuas) :** Posiciones en metros, como las que usa el simulador.  
 **--> Coordenadas de rejilla (discretas):** Posiciones en celdas del array, es lo que entiende nuestro campo de costes, ya que la propagación de onda y el inflado necesitan un mapa discretizado.
 
