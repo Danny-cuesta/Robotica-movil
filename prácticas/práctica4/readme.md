@@ -43,8 +43,8 @@ Vamos a definir el objetivo y realizar la conversión de coordenadas correspondi
 **--> Coordenadas del mundo (continuas) :** Posiciones en metros, como las que usa el simulador.  
 **--> Coordenadas de rejilla (discretas):** Posiciones en celdas del array, es lo que entiende nuestro campo de costes, ya que la propagación de onda y el inflado necesitan un mapa discretizado.
 
-**En la FUNCIÓN A PARTE que llamaremos: cost_field**
-
+**-En una FUNCIÓN A PARTE que llamaremos: cost_field**
+Construiremos el campo de costes.
 
 **-En la FUNCIÓN A PARTE, build_path:**  
 Decribiremos la ruta que debe seguir el coche por el mapa donde construiremos el **vector gradiente**. Esta función recibirá el coste de cada celda para llegar al objetivo y el inicio.
