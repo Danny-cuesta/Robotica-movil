@@ -39,10 +39,10 @@ Depués debemos inflar los muros para que se descarten las calles más estrechas
 
 
 ### -En una FUNCIÓN A PARTE que llamaremos, cost_field:  
-Construiremos el campo de costes.
+Construiremos el campo de costes comprobando que cada celda es válida y de esta forma aisgnamos un coste para cada celda del mapa.
 
 ### -En la FUNCIÓN A PARTE, build_path:  
-Decribiremos la ruta que debe seguir el coche por el mapa donde construiremos el **vector gradiente**. Esta función recibirá el coste de cada celda para llegar al objetivo y el inicio.
+Decribiremos la ruta que debe seguir el coche por el mapa donde construiremos el **vector gradiente**. Esta función recibirá el coste de cada celda para llegar al objetivo y el inicio, y si el coste del vecino es más bajo que el de la celda actual, debemos guardar esa celda del vecino en la ruta, para que de esta forma el coche avance priorizando el coste (el coste aumenta si se aleja del objetivo).
 
 
 ### -DENTRO DEL BUCLE PRINCIPAL:  
