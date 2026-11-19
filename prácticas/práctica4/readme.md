@@ -66,6 +66,8 @@ https://github.com/user-attachments/assets/fc1947c3-3543-4f9e-8a46-6f3554321fe8
 
 [prueba_choque2.webm](https://github.com/user-attachments/assets/0e4ee378-e44c-487e-a0bc-3b1edbdd879d)
 
+En general, funciona en determinados objetivos porque en otros se desestabiliza o se choca antes de girar.
+
 
 ## VÍDEOS DE PRUEBA QUE FUNCIONAN
 
