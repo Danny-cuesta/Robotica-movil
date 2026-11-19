@@ -85,4 +85,5 @@ Con otros ajustes por alguna extraña razón el coche empieza a volar, pero por 
 
 [coche_curvasAlcanzaObjetivo.webm](https://github.com/user-attachments/assets/a4bf04d5-f06e-4b56-885e-7c2d3b66327e)
 
+[otroObjetivoAlcanzado.webm](https://github.com/user-attachments/assets/fcb4b5a8-eda9-4f43-bb95-c538b1562aa3)
 
