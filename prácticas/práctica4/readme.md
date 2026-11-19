@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/fc1947c3-3543-4f9e-8a46-6f3554321fe8
 
 [prueba_objetivoInalcanzable.webm](https://github.com/user-attachments/assets/b14f04bc-f7ed-4328-bbfc-fb0efc9f448c) 
 
-En general a veces cuesta marcar el objetivo por los muros hinchados, y en ocasiones hasta en los propios muros puede detectar un objetivo (en este caso gira algo mejor, pero no consigue alcanzar el objetivo aunque las trazas las cunple).
+En general a veces cuesta marcar el objetivo por los muros hinchados, y en ocasiones hasta en los propios muros puede detectar un objetivo (en este caso gira algo mejor, pero no consigue alcanzar el objetivo aunque las trazas las cumple).
 
 [coche_lineaRecta.webm](https://github.com/user-attachments/assets/19328217-90bd-43c1-b95f-2111c7a673b1)
 
