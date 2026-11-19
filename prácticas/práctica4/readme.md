@@ -64,7 +64,7 @@ Aquí un ejemplo de ello:
 
 https://github.com/user-attachments/assets/fc1947c3-3543-4f9e-8a46-6f3554321fe8
 
-También ejemplo de que a veces cuesta marcar el objetivo por los muros inchados, y en ocasiones hasta en los propios muros puede detectar un objetivo:
+También ejemplo de que a veces cuesta marcar el objetivo por los muros hinchados, y en ocasiones hasta en los propios muros puede detectar un objetivo (en este caso gira algo mejor):
 
 [prueba_objetivoInalcanzable.webm](https://github.com/user-attachments/assets/b14f04bc-f7ed-4328-bbfc-fb0efc9f448c) 
 
