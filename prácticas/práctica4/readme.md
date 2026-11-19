@@ -70,3 +70,8 @@ https://github.com/user-attachments/assets/fc1947c3-3543-4f9e-8a46-6f3554321fe8
 
 En general a veces cuesta marcar el objetivo por los muros hinchados, y en ocasiones hasta en los propios muros puede detectar un objetivo (en este caso gira algo mejor):
 
+[coche_lineaRecta.webm](https://github.com/user-attachments/assets/19328217-90bd-43c1-b95f-2111c7a673b1)
+
+Cumple un objetivo donde la ruta es una linea recta.
+
+
