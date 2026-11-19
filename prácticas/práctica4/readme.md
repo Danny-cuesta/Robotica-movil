@@ -66,7 +66,7 @@ https://github.com/user-attachments/assets/a6c78fbe-bda7-448b-81d2-450b504e85f9
 
 También ejemplo de que a veces cuesta marcar el objetivo por los muros inchados, y en ocasiones hasta en los propios muros puede detectar un objetivo:
 
-
+[prueba_objetivoInalcanzable.webm](https://github.com/user-attachments/assets/b14f04bc-f7ed-4328-bbfc-fb0efc9f448c) 
 
 ## VÍDEOS DE PRUEBA QUE FUNCIONAN
 
