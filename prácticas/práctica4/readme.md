@@ -60,9 +60,12 @@ Posteriormente el coche debe SEGUIR LA RUTA marcada donde debe recorrer cada pun
 
 Al seleccionar el objetivo a veces aunque lo señale dentro de la calle, me lo marca como inalcanzable o que no puede acceder, puede que tenga que ver con un problema al inflar los muros. A parte, al principio el coche se chocaba o giraba sin motivo, he tenido que ajustar los parámetros para arreglarlo.
 
-Aquí un ejemplo de ello:
+Aquí ejemplos de ello:
 
 https://github.com/user-attachments/assets/fc1947c3-3543-4f9e-8a46-6f3554321fe8
+
+[prueba_choque2.webm](https://github.com/user-attachments/assets/0e4ee378-e44c-487e-a0bc-3b1edbdd879d)
+
 
 ## VÍDEOS DE PRUEBA QUE FUNCIONAN
 
