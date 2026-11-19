@@ -37,7 +37,7 @@ Luego crearemos otra tabla donde están definidos los muros para luego inflarlos
 
 Depués debemos inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes).  
 
-Posterioemente vamos definir parámetros para que el coche siga una ruta óptima.
+Posteriormente vamos definir parámetros para que el coche siga una ruta óptima.
 
 
 ### -En una FUNCIÓN A PARTE que llamaremos, cost_field:  
