@@ -76,5 +76,5 @@ Cumple un objetivo donde la ruta es una linea recta.
 
 [cocheVolador_alcanzaObjetivo.webm](https://github.com/user-attachments/assets/b4656795-c02f-4105-abe0-cdef25b2bf3f)
 
-Por alguna extraña razón el coche empieza a volar, pero por otra extraña razón más desconocida todavía alcanza su objetivo.
+Por alguna extraña razón el coche empieza a volar, pero por otra extraña razón más desconocida todavía, alcanza su objetivo.
 
