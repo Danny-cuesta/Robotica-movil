@@ -33,9 +33,11 @@ Lo primero que tenemos que hacer es cargar el mapa con WebGUI.getMap, esta funci
 --> 0: negro (representa muros)  
 --> 255: blanco (representa celdas libres)
 
-Luego crearemos otra tabla donde están defidos los muros para luego inflarlos.
+Luego crearemos otra tabla donde están definidos los muros para luego inflarlos.
 
-Depués debemos inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes). 
+Depués debemos inflar los muros para que se descarten las calles más estrechas y que solo se tengan en cuenta las calles por las que puede pasar un coche real (las más grandes).  
+
+Posterioemente vamos definir parámetros para que el coche siga una ruta óptima.
 
 
 ### -En una FUNCIÓN A PARTE que llamaremos, cost_field:  
@@ -46,12 +48,16 @@ Decribiremos la ruta que debe seguir el coche por el mapa donde construiremos el
 
 
 ### -DENTRO DEL BUCLE PRINCIPAL:  
-Vamos a definir el objetivo y realizar la conversión de coordenadas correspondientes, del mundo a rejilla y de rejilla al mundo, se realiza cada conversión cuando queremos "salir o entrar" del algoritmo:  
+Al principio debemos PLANIFICAR LA RUTA. Vamos a definir el objetivo y la posición inicial a las coordenadas correspondientes, del mundo a rejilla y de rejilla al mundo, se realiza cada conversión cuando queremos "salir o entrar" del algoritmo:  
 **--> Coordenadas del mundo (continuas) :** Posiciones en metros, como las que usa el simulador.  
-**--> Coordenadas de rejilla (discretas):** Posiciones en celdas del array, es lo que entiende nuestro campo de costes, ya que la propagación de onda y el inflado necesitan un mapa discretizado.
+**--> Coordenadas de rejilla (discretas):** Posiciones en celdas del array, es lo que entiende nuestro campo de costes, ya que la propagación de onda y el inflado necesitan un mapa discretizado.  
+Tambiés llamaremos a las funciones que hemos creado previamente formando el campos de costes y la ruta al objetivo.
 
+Posteriormente el coche debe SEGUIR LA RUTA marcada donde debe recorrer cada punto de la ruta verificando si ese es el objetivo, si no continuirá movimiendose con su ángulo de giro y velocidad.
 
 ## PROBLEMAS ENCONTRADOS
+
+Al seleccionar el objetivo a veces aunque lo señale dentro de la calle, me lo marca como inalcanzable o que no puede acceder, puede que tenga que ver con un problema al inflar los muros. A parte, al principio el coche se chocaba o giraba sin motivo, he tenido que ajustar los parámetros para arreglarlo.
 
 ## VÍDEOS
 
