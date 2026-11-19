@@ -81,3 +81,6 @@ Cumple un objetivo donde la ruta es una linea recta.
 
 Con otros ajustes por alguna extraña razón el coche empieza a volar, pero por otra extraña razón más desconocida todavía, alcanza su objetivo.
 
+[coche_curvasAlcanzaObjetivo.webm](https://github.com/user-attachments/assets/a4bf04d5-f06e-4b56-885e-7c2d3b66327e)
+
+
