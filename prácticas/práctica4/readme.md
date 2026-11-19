@@ -51,7 +51,8 @@ Decribiremos la ruta que debe seguir el coche por el mapa donde construiremos el
 Al principio debemos PLANIFICAR LA RUTA. Vamos a definir el objetivo y la posición inicial a las coordenadas correspondientes, del mundo a rejilla y de rejilla al mundo, se realiza cada conversión cuando queremos "salir o entrar" del algoritmo:  
 **--> Coordenadas del mundo (continuas) :** Posiciones en metros, como las que usa el simulador.  
 **--> Coordenadas de rejilla (discretas):** Posiciones en celdas del array, es lo que entiende nuestro campo de costes, ya que la propagación de onda y el inflado necesitan un mapa discretizado.  
-Tambiés llamaremos a las funciones que hemos creado previamente formando el campos de costes y la ruta al objetivo.
+
+También llamaremos a las funciones que hemos creado previamente formando el campos de costes y la ruta al objetivo.
 
 Posteriormente el coche debe SEGUIR LA RUTA marcada donde debe recorrer cada punto de la ruta verificando si ese es el objetivo, si no continuirá movimiendose con su ángulo de giro y velocidad.
 
