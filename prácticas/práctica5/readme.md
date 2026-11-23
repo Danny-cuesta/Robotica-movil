@@ -2,7 +2,7 @@
 
 ## OBJETIVO DE LA PRÁCTICA
 
-El objetivo de este ejercicio es desarrollar un algoritmo de navegación que permita a un robot explorar de forma autónoma un entorno de almacén mientras genera un mapa 2D preciso del entorno utilizando datos de sensores LIDAR.
+El objetivo de esta práctica es desarrollar un algoritmo de navegación que permita a un robot explorar de forma autónoma un entorno de almacén mientras genera un mapa 2D preciso del entorno utilizando datos de sensores LIDAR.
 
 ## DETALLES DEL CÓDIGO
 
