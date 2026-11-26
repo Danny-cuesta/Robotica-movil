@@ -4,6 +4,8 @@
 
 El objetivo de esta práctica es desarrollar un algoritmo de navegación que permita a un robot explorar de forma autónoma un entorno de almacén mientras genera un mapa 2D preciso del entorno utilizando datos de sensores LIDAR.
 
+## DESCRIPCIÓN DEL ALGORITMO
+
 1- Al empezar, el mapa está todo en gris (no sabes nada). El robot solo "ve" lo que tiene a su alrededor.  
 2- El láser lanza muchos rayos en abanico y mide la distancia a lo que hay en cada dirección.  
 3- Cada lectura actualiza el mapa: las casillas por las que pasa el rayo se vuelven más "libres" y la casilla donde choca se vuelve más "ocupada".  
